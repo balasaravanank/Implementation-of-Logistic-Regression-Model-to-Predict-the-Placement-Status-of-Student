@@ -80,9 +80,20 @@ print("Predicted Placement Status:", placement_status)
 ```
 
 ## Output:
+## HEAD
+![Screenshot 2025-04-16 215710](https://github.com/user-attachments/assets/f3a60e8d-2e05-4b10-9640-83aaaa1ba275)
+## DATA PREPROCESSING
+![Screenshot 2025-04-16 215920](https://github.com/user-attachments/assets/0fe93f00-0dc3-4d41-baac-d2160cc5cdac)
+## LOGISTIC REGRESSION
+![Screenshot 2025-04-16 220148](https://github.com/user-attachments/assets/a358b4b6-80d5-444f-81cb-105fc657eaca)
+## CLASSIFICATION REPORT
+![Screenshot 2025-04-16 220306](https://github.com/user-attachments/assets/e8475bec-29c1-45cb-96d8-ad09736b42f9)
+# PREDICTIONS AND EVALUATE
+![Screenshot 2025-04-16 220429](https://github.com/user-attachments/assets/a4be4cb6-098b-4472-863c-3c82e5bcf0c8)
 
 
 ## Developed by : BALA SARAVANAN K
+
 ## Reg no: 24900611
 
 ## Result:
